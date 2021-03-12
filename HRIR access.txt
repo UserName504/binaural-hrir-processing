@@ -1,0 +1,26 @@
+ANGLE:	ROW INDEX:	SYNTAX:
+0°	1		HRIR_set_L(1, : ); and/or HRIR_set_R(1, : );
+15°	2		HRIR_set_L(2, : ); and/or HRIR_set_R(2, : );
+30°	3		HRIR_set_L(3, : ); and/or HRIR_set_R(3, : );
+45°	4		HRIR_set_L(4, : ); and/or HRIR_set_R(4, : );
+60°	5		HRIR_set_L(5, : ); and/or HRIR_set_R(5, : );
+75°	6		HRIR_set_L(6, : ); and/or HRIR_set_R(6, : );
+90°	7		HRIR_set_L(7, : ); and/or HRIR_set_R(7, : );
+105°	8		HRIR_set_L(8, : ); and/or HRIR_set_R(8, : );
+120°	9		HRIR_set_L(9, : ); and/or HRIR_set_R(9, : );
+135°	10		HRIR_set_L(10, : ); and/or HRIR_set_R(10, : );
+150°	11		HRIR_set_L(11, : ); and/or HRIR_set_R(11, : );
+165°	12		HRIR_set_L(12, : ); and/or HRIR_set_R(12, : );
+180°	13		HRIR_set_L(13, : ); and/or HRIR_set_R(13, : );
+195°	14		HRIR_set_L(14, : ); and/or HRIR_set_R(14, : );
+210°	15		HRIR_set_L(15, : ); and/or HRIR_set_R(15, : );
+225°	16		HRIR_set_L(16, : ); and/or HRIR_set_R(16, : );
+240°	17		HRIR_set_L(17, : ); and/or HRIR_set_R(17, : );
+255°	18		HRIR_set_L(18, : ); and/or HRIR_set_R(18, : );
+270°	19		HRIR_set_L(19, : ); and/or HRIR_set_R(19, : );
+285°	20		HRIR_set_L(20, : ); and/or HRIR_set_R(20, : );
+300°	21		HRIR_set_L(21, : ); and/or HRIR_set_R(21, : );
+315°	22		HRIR_set_L(22, : ); and/or HRIR_set_R(22, : );
+330°	23		HRIR_set_L(23, : ); and/or HRIR_set_R(23, : );
+345°	24		HRIR_set_L(24, : ); and/or HRIR_set_R(24, : );
+360°	25		HRIR_set_L(25, : ); and/or HRIR_set_R(25, : );
