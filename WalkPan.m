@@ -1,9 +1,10 @@
 function [walkSum] = WalkPan(walk)
+
+% LOAD HRIR dataset here:
 load HRIRs_0el_IRC_subject59
-%WALKPAN Summary of this function goes here
-%   Detailed explanation goes here
-xR = walk(:, 1); % Splits a stereo signal into mono, if necessary.
-xL = walk(:, 1);
+
+xR = walk(:, 1); % Splits a STEREO signal into MONO, if necessary.
+xL = walk(:, 1); % Splits a STEREO signal into MONO, if necessary.
 
 angleWalkLeft = 19;
 angleWalkRight = 7;
