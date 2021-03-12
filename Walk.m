@@ -1,9 +1,12 @@
+% LOAD HRIR dataset here:
 load HRIRs_0el_IRC_subject59
 
-[walk, wav_Fs] = audioread('Walking.wav'); % LOAD audio file here.
+% LOAD audio input here:
+[walk, wav_Fs] = audioread('Walking.wav');
 if wav_Fs ~= Fs; 
     error('Sampling frequencies must be the same');
 end
+
 % Split STEREO to MONO, if necessary:
 xR = walk(:, 1);
 xL = walk(:, 1);
